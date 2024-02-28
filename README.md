@@ -5,6 +5,6 @@ This repository contains my custom Functions for every classifier and regression
 
 | Algorithms | Links |
 |----------|----------|
-| Linear Regresssion   | ---- |
+| Linear Regresssion   | [Check the code](https://github.com/Mrnoobcoder/Machine_learning/blob/main/Jupyter/LInear_regression.ipynb)|
 
 
